@@ -1,0 +1,1 @@
+If you see loading icon **for too long**, check if you added your own **API key** in **script.js** file. If not you need to **register** and **create application** in 'https://unsplash.com/' and paste the **Access Key** to script.js inside of **apiKey** variable. 
